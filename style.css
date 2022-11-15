@@ -4,9 +4,9 @@ html, body{
 }
 
 *{
-    color: white;
+    color: cyan;
     background-color: black;
-    font-family: monospace;
+    font-family: Cursive;
 }
 
 .banner h1{
@@ -24,7 +24,7 @@ html, body{
 }
 
 .content div h1{
-    font-size: 2rem;
+    font-size: 20rem;
 }
 .content div p{
     font-size: 1.2rem;
