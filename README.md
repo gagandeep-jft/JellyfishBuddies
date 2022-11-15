@@ -2,7 +2,7 @@
 
 ## Task list
 
-### 1. Add your info in `info.html` by updating and using the following snippet:
+### 1. Add your info in [`index.html`](index.html) by updating and using the following snippet:
 
 ```html
 <div>
